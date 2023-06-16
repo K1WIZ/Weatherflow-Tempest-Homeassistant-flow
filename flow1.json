@@ -1,0 +1,1204 @@
+[
+    {
+        "id": "0745adaa16aeeeb9",
+        "type": "tab",
+        "label": "WX Watchdog",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "565c441e2b627d4e",
+        "type": "junction",
+        "z": "0745adaa16aeeeb9",
+        "x": 1160,
+        "y": 140,
+        "wires": [
+            [
+                "e0c4904625b7df2c",
+                "fde5a73d2b860668"
+            ]
+        ]
+    },
+    {
+        "id": "bf745abdeee336cc",
+        "type": "junction",
+        "z": "0745adaa16aeeeb9",
+        "x": 740,
+        "y": 160,
+        "wires": [
+            [
+                "fb9d100323c505d6",
+                "f3f4b38ad6714c11",
+                "044469fee39c8232",
+                "96b471fcb3ffb735",
+                "f55152b7fecfb717",
+                "c0e6962167af9842"
+            ]
+        ]
+    },
+    {
+        "id": "c0e6962167af9842",
+        "type": "junction",
+        "z": "0745adaa16aeeeb9",
+        "x": 840,
+        "y": 260,
+        "wires": [
+            [
+                "a6b9a761f6e25f25"
+            ]
+        ]
+    },
+    {
+        "id": "a6b9a761f6e25f25",
+        "type": "junction",
+        "z": "0745adaa16aeeeb9",
+        "x": 1080,
+        "y": 260,
+        "wires": [
+            [
+                "e0c4904625b7df2c"
+            ]
+        ]
+    },
+    {
+        "id": "67d8d86ee9bca2a2",
+        "type": "junction",
+        "z": "0745adaa16aeeeb9",
+        "x": 280,
+        "y": 160,
+        "wires": [
+            [
+                "f9e11d77cf13820f",
+                "bf745abdeee336cc"
+            ]
+        ]
+    },
+    {
+        "id": "13e90588a00eb537",
+        "type": "junction",
+        "z": "0745adaa16aeeeb9",
+        "x": 800,
+        "y": 480,
+        "wires": [
+            [
+                "9b73570f364220f4"
+            ]
+        ]
+    },
+    {
+        "id": "4859438ebd3e4b38",
+        "type": "junction",
+        "z": "0745adaa16aeeeb9",
+        "x": 800,
+        "y": 432,
+        "wires": [
+            [
+                "9b73570f364220f4"
+            ]
+        ]
+    },
+    {
+        "id": "f526247b1b3cfbb1",
+        "type": "junction",
+        "z": "0745adaa16aeeeb9",
+        "x": 800,
+        "y": 380,
+        "wires": [
+            [
+                "9b73570f364220f4"
+            ]
+        ]
+    },
+    {
+        "id": "89f5bb04589df234",
+        "type": "junction",
+        "z": "0745adaa16aeeeb9",
+        "x": 800,
+        "y": 276,
+        "wires": [
+            [
+                "9b73570f364220f4"
+            ]
+        ]
+    },
+    {
+        "id": "66b9fbf7f530617e",
+        "type": "junction",
+        "z": "0745adaa16aeeeb9",
+        "x": 484,
+        "y": 276,
+        "wires": [
+            [
+                "d3787f713f6931ec"
+            ]
+        ]
+    },
+    {
+        "id": "81c5200bc73aaa20",
+        "type": "junction",
+        "z": "0745adaa16aeeeb9",
+        "x": 484,
+        "y": 380,
+        "wires": [
+            [
+                "b27df286bd164d3c"
+            ]
+        ]
+    },
+    {
+        "id": "053ce4555da085db",
+        "type": "junction",
+        "z": "0745adaa16aeeeb9",
+        "x": 1100,
+        "y": 340,
+        "wires": [
+            [
+                "d00f7d29a296345d",
+                "652f9b469c47a6c1"
+            ]
+        ]
+    },
+    {
+        "id": "6cf04c66abac6e3e",
+        "type": "junction",
+        "z": "0745adaa16aeeeb9",
+        "x": 1100,
+        "y": 720,
+        "wires": [
+            [
+                "d00f7d29a296345d",
+                "652f9b469c47a6c1"
+            ]
+        ]
+    },
+    {
+        "id": "09571e5227450799",
+        "type": "junction",
+        "z": "0745adaa16aeeeb9",
+        "x": 1040,
+        "y": 720,
+        "wires": [
+            [
+                "6cf04c66abac6e3e"
+            ]
+        ]
+    },
+    {
+        "id": "80c6b4b39298aa41",
+        "type": "junction",
+        "z": "0745adaa16aeeeb9",
+        "x": 962,
+        "y": 588,
+        "wires": [
+            [
+                "09571e5227450799"
+            ]
+        ]
+    },
+    {
+        "id": "6cb750c635fd06b3",
+        "type": "junction",
+        "z": "0745adaa16aeeeb9",
+        "x": 962,
+        "y": 640,
+        "wires": [
+            [
+                "09571e5227450799"
+            ]
+        ]
+    },
+    {
+        "id": "d1d5eb8b872898f2",
+        "type": "junction",
+        "z": "0745adaa16aeeeb9",
+        "x": 962,
+        "y": 692,
+        "wires": [
+            [
+                "09571e5227450799"
+            ]
+        ]
+    },
+    {
+        "id": "7c86e5ee03c5d94e",
+        "type": "junction",
+        "z": "0745adaa16aeeeb9",
+        "x": 962,
+        "y": 744,
+        "wires": [
+            [
+                "09571e5227450799"
+            ]
+        ]
+    },
+    {
+        "id": "0d9e5ce0f3d9d9ec",
+        "type": "junction",
+        "z": "0745adaa16aeeeb9",
+        "x": 962,
+        "y": 796,
+        "wires": [
+            [
+                "09571e5227450799"
+            ]
+        ]
+    },
+    {
+        "id": "56f5799e6ef2b131",
+        "type": "junction",
+        "z": "0745adaa16aeeeb9",
+        "x": 962,
+        "y": 848,
+        "wires": [
+            [
+                "09571e5227450799"
+            ]
+        ]
+    },
+    {
+        "id": "c0a0b5e65644e85d",
+        "type": "junction",
+        "z": "0745adaa16aeeeb9",
+        "x": 952,
+        "y": 900,
+        "wires": [
+            [
+                "09571e5227450799"
+            ]
+        ]
+    },
+    {
+        "id": "83ddf018ecb2dd2d",
+        "type": "junction",
+        "z": "0745adaa16aeeeb9",
+        "x": 650,
+        "y": 588,
+        "wires": [
+            [
+                "3927a6c89bd14aa7"
+            ]
+        ]
+    },
+    {
+        "id": "a9170bfb497fadbc",
+        "type": "junction",
+        "z": "0745adaa16aeeeb9",
+        "x": 650,
+        "y": 692,
+        "wires": [
+            [
+                "8d71b7e4808efd05"
+            ]
+        ]
+    },
+    {
+        "id": "9f4e6c222ae26686",
+        "type": "junction",
+        "z": "0745adaa16aeeeb9",
+        "x": 650,
+        "y": 796,
+        "wires": [
+            [
+                "20fffef2fde4692a"
+            ]
+        ]
+    },
+    {
+        "id": "c4514ded5148afac",
+        "type": "junction",
+        "z": "0745adaa16aeeeb9",
+        "x": 650,
+        "y": 848,
+        "wires": [
+            [
+                "aedb3ec089c95a68"
+            ]
+        ]
+    },
+    {
+        "id": "e0c4904625b7df2c",
+        "type": "debug",
+        "z": "0745adaa16aeeeb9",
+        "name": "Watchdog Debug",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1330,
+        "y": 180,
+        "wires": []
+    },
+    {
+        "id": "f3f4b38ad6714c11",
+        "type": "function",
+        "z": "0745adaa16aeeeb9",
+        "name": "UV Index Thres 8",
+        "func": "var lastSentValue = context.get('lastSentValue') || { value: 0, time: 0 };\nvar currentValue = 0;\n\nif (msg.payload.hasOwnProperty('uv')) {\n    currentValue = parseFloat(msg.payload.uv);\n} else {\n    return null;  // Exit the function if the required field is missing\n}\n\nvar currentTime = Date.now();\n\nif (currentValue >= 8 && (!lastSentValue || lastSentValue.value < 8)) {\n    // Send the high UV index message and update the last sent value\n    context.set('lastSentValue', { value: currentValue, time: currentTime });\n    var now = new Date();\n    var options = { timeZone: 'America/New_York' };\n    var localTime = now.toLocaleString('en-US', options);\n    msg.payload = \"UV Index is now: \" + currentValue + \". Recommending precautions to limit sun exposure.\\n\" +\n        \"For real-time current conditions in Bridgeberry: https://tempestwx.com/station/73221/grid\";\n    msg.topic = \"High UV Index Alert (\" + localTime + \")\";\n    return msg;\n} else if (currentValue < 3 && lastSentValue.value >= 8 && (currentTime - lastSentValue.time) > (2 * 60 * 60 * 1000)) {\n    // Send the low UV index message and update the last sent value\n    context.set('lastSentValue', { value: currentValue, time: currentTime });\n    var now = new Date();\n    var options = { timeZone: 'America/New_York' };\n    var localTime = now.toLocaleString('en-US', options);\n    msg.payload = \"UV Index has dropped to: \" + currentValue + \". Yay! It is now safe to enjoy the outdoors.\\n\" +\n        \"For real-time current conditions in Bridgeberry: https://tempestwx.com/station/73221/grid\";\n    msg.topic = \"Low UV Index Alert (\" + localTime + \")\";\n    return msg;\n} else {\n    return null;\n}\n",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 970,
+        "y": 180,
+        "wires": [
+            [
+                "565c441e2b627d4e"
+            ]
+        ]
+    },
+    {
+        "id": "fb9d100323c505d6",
+        "type": "function",
+        "z": "0745adaa16aeeeb9",
+        "name": "Wind Gust GT 15/10Hours",
+        "func": "var lastSentTime = context.get('lastSentTime') || 0;\nvar currentValue = 0;\n\nif (msg.payload.hasOwnProperty('wind_gust')) {\n    currentValue = parseFloat(msg.payload.wind_gust);\n} else {\n    return null;  // Exit the function if the required field is missing\n}\n\nif (currentValue >= 15 && (Date.now() - lastSentTime) > (60 * 600 * 1000)) {\n    // Send the message and update the last sent time\n    context.set('lastSentTime', Date.now());\n    var now = new Date();\n    var options = { timeZone: 'America/New_York' };\n    var localTime = now.toLocaleString('en-US', options);\n    msg.payload = \"Wind gusting speed of \" + currentValue + \" MPH detected! Please be sure to check and secure any loose items in your yards.\\n\" +\n        \"We will check again in 10 hours.\\n\" +\n        \"For real-time current conditions in Bridgeberry: https://tempestwx.com/station/73221/grid\";\n    msg.topic = \"High Wind Gust Alert (\" + localTime + \")\";\n    return msg;\n} else {\n    return null;\n}\n",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 960,
+        "y": 220,
+        "wires": [
+            [
+                "565c441e2b627d4e"
+            ]
+        ]
+    },
+    {
+        "id": "f55152b7fecfb717",
+        "type": "function",
+        "z": "0745adaa16aeeeb9",
+        "name": "Lightning LT 12Miles",
+        "func": "var lastSentTime = context.get('lastSentTime') || 0;\nvar currentValue = 0;\nvar lightning_strike_count = 0;\n\nif (msg.payload.hasOwnProperty('lightning_strike_last_distance') && msg.payload.hasOwnProperty('lightning_strike_count')) {\n    currentValue = Math.max(msg.payload.lightning_strike_last_distance - 4, 0); // Subtract 4 and ensure the value is not negative\n    lightning_strike_count = msg.payload.lightning_strike_count;\n} else {\n    return null;  // Exit the function if any of the required fields are missing\n}\n\nif (lightning_strike_count >= 1 && currentValue >= 1 && currentValue <= 18 && (Date.now() - lastSentTime) > (60 * 60 * 1000)) {\n    // Send the message and update the last sent time\n    context.set('lastSentTime', Date.now());\n    var now = new Date();\n    var options = { timeZone: 'America/New_York' };\n    var localTime = now.toLocaleString('en-US', options);\n    msg.payload = \"Warning! Lightning detected \" + currentValue + \" miles from Bridgeberry!  Recommend safe shelter indoors.\\n\" +\n        \"We will check again in 1 hour.\\n\" +\n        \"For realtime current conditions in Bridgeberry: https://tempestwx.com/station/73221/grid\";\n    msg.topic = \"Nearby Lightning Alert (\" + localTime + \")\";\n    return msg;\n} else {\n    return null;\n}\n",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 980,
+        "y": 60,
+        "wires": [
+            [
+                "565c441e2b627d4e"
+            ]
+        ]
+    },
+    {
+        "id": "96b471fcb3ffb735",
+        "type": "function",
+        "z": "0745adaa16aeeeb9",
+        "name": "Rain Start / 12Hours",
+        "func": "var lastSentTime = context.get('lastSentTime') || 0;\nvar currentValue = '';\n\nif (msg.payload.hasOwnProperty('precip')) {\n    currentValue = parseFloat(msg.payload.precip);\n} else {\n    return null;  // Exit the function if the required field is missing\n}\n\nif (Number(currentValue) >= 0.1 && (Date.now() - lastSentTime) > (60 * 720 * 1000)) {\n    // Send the message and update the last sent time\n    context.set('lastSentTime', Date.now());\n    var now = new Date();\n    var options = { timeZone: 'America/New_York' };\n    var localTime = now.toLocaleString('en-US', options);\n    msg.payload = \"Rainfall has been detected in Bridgeberry. Did you remember to close your car windows?\\n\" +\n        \"For real-time current conditions in Bridgeberry: https://tempestwx.com/station/73221/grid\";\n    msg.topic = \"Rain Alert (\" + localTime + \")\";\n    return msg;\n} else {\n    return null;\n}\n",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 980,
+        "y": 100,
+        "wires": [
+            [
+                "565c441e2b627d4e"
+            ]
+        ]
+    },
+    {
+        "id": "fde5a73d2b860668",
+        "type": "pushover api",
+        "z": "0745adaa16aeeeb9",
+        "keys": "049f764f6dd79417",
+        "title": "",
+        "name": "BB Alerts",
+        "x": 1340,
+        "y": 100,
+        "wires": []
+    },
+    {
+        "id": "044469fee39c8232",
+        "type": "function",
+        "z": "0745adaa16aeeeb9",
+        "name": "UV Index Thres 10",
+        "func": "var lastSentValue = context.get('lastSentValue') || { value: 0, time: 0 };\nvar currentValue = 0;\n\nif (msg.payload.hasOwnProperty('uv')) {\n    currentValue = parseFloat(msg.payload.uv);\n} else {\n    return null;  // Exit the function if the required field is missing\n}\n\nvar currentTime = Date.now();\n\nif (currentValue >= 10 && (!lastSentValue || lastSentValue.value < 10)) {\n    // Send the high UV index message and update the last sent value\n    context.set('lastSentValue', { value: currentValue, time: currentTime });\n    var now = new Date();\n    var options = { timeZone: 'America/New_York' };\n    var localTime = now.toLocaleString('en-US', options);\n    msg.payload = \"UV Index is now: \" + currentValue + \". This level is DANGEROUS for unprotected eyes and skin. Seek shade or shelter.\\n\" +\n        \"For real-time current conditions in Bridgeberry: https://tempestwx.com/station/73221/grid\";\n    msg.topic = \"Dangerous UV Index Alert (\" + localTime + \")\";\n    return msg;\n} else if (currentValue < 7 && lastSentValue.value >= 10 && (currentTime - lastSentValue.time) > (2 * 60 * 60 * 1000)) {\n    // Send the low UV index message and update the last sent value\n    context.set('lastSentValue', { value: currentValue, time: currentTime });\n    var now = new Date();\n    var options = { timeZone: 'America/New_York' };\n    var localTime = now.toLocaleString('en-US', options);\n    msg.payload = \"UV Index has dropped to: \" + currentValue + \". Level is OK with proper protection, minimized exposure is recommended.\\n\" +\n        \"For real-time current conditions in Bridgeberry: https://tempestwx.com/station/73221/grid\";\n    msg.topic = \"UV Index Alert (\" + localTime + \")\";\n    return msg;\n} else {\n    return null;\n}\n",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 970,
+        "y": 140,
+        "wires": [
+            [
+                "565c441e2b627d4e"
+            ]
+        ]
+    },
+    {
+        "id": "cf78c88e62fbe544",
+        "type": "inject",
+        "z": "0745adaa16aeeeb9",
+        "name": "1min",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "60",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 170,
+        "y": 280,
+        "wires": [
+            [
+                "6563d6bad0f3960b"
+            ]
+        ]
+    },
+    {
+        "id": "445034fed5296f8d",
+        "type": "function",
+        "z": "0745adaa16aeeeb9",
+        "name": "Payload",
+        "func": "// Extract the 'obs' array from the parsed JSON\nmsg.payload = msg.payload.obs[0];\nreturn msg;\n",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 180,
+        "y": 160,
+        "wires": [
+            [
+                "67d8d86ee9bca2a2"
+            ]
+        ]
+    },
+    {
+        "id": "6563d6bad0f3960b",
+        "type": "http request",
+        "z": "0745adaa16aeeeb9",
+        "name": "WX OBS",
+        "method": "GET",
+        "ret": "txt",
+        "paytoqs": "ignore",
+        "url": "https://my.weather.url/observations.json",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "insecureHTTPParser": false,
+        "authType": "",
+        "senderr": false,
+        "headers": [],
+        "x": 180,
+        "y": 240,
+        "wires": [
+            [
+                "4dfadc5588c57bf6"
+            ]
+        ]
+    },
+    {
+        "id": "4dfadc5588c57bf6",
+        "type": "json",
+        "z": "0745adaa16aeeeb9",
+        "name": "",
+        "property": "payload",
+        "action": "obj",
+        "pretty": false,
+        "x": 170,
+        "y": 200,
+        "wires": [
+            [
+                "445034fed5296f8d"
+            ]
+        ]
+    },
+    {
+        "id": "652f9b469c47a6c1",
+        "type": "debug",
+        "z": "0745adaa16aeeeb9",
+        "name": "mqtt feed debug",
+        "active": false,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1280,
+        "y": 380,
+        "wires": []
+    },
+    {
+        "id": "f9e11d77cf13820f",
+        "type": "split",
+        "z": "0745adaa16aeeeb9",
+        "name": "",
+        "splt": "\\n",
+        "spltType": "str",
+        "arraySplt": 1,
+        "arraySpltType": "len",
+        "stream": false,
+        "addname": "topic",
+        "x": 150,
+        "y": 580,
+        "wires": [
+            [
+                "30304f06fc7c0bbe",
+                "22394e3a781df40e"
+            ]
+        ]
+    },
+    {
+        "id": "30304f06fc7c0bbe",
+        "type": "switch",
+        "z": "0745adaa16aeeeb9",
+        "name": "",
+        "property": "topic",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "air_temperature",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "feels_like",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "heat_index",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "wind_chill",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "dew_point",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "wet_bulb_temperature",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "wet_bulb_globe_temperature",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "delta_t",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "precip",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "precip_accum_last_1hr",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "precip_accum_local_day",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "precip_accum_local_day_final",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "precip_accum_local_yesterday",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "precip_accum_local_yesterday_final",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "lightning_strike_last_distance",
+                "vt": "str"
+            },
+            {
+                "t": "else"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 16,
+        "x": 330,
+        "y": 380,
+        "wires": [
+            [
+                "66b9fbf7f530617e"
+            ],
+            [
+                "66b9fbf7f530617e"
+            ],
+            [
+                "66b9fbf7f530617e"
+            ],
+            [
+                "66b9fbf7f530617e"
+            ],
+            [
+                "66b9fbf7f530617e"
+            ],
+            [
+                "66b9fbf7f530617e"
+            ],
+            [
+                "66b9fbf7f530617e"
+            ],
+            [
+                "66b9fbf7f530617e"
+            ],
+            [
+                "81c5200bc73aaa20"
+            ],
+            [
+                "81c5200bc73aaa20"
+            ],
+            [
+                "81c5200bc73aaa20"
+            ],
+            [
+                "81c5200bc73aaa20"
+            ],
+            [
+                "81c5200bc73aaa20"
+            ],
+            [
+                "81c5200bc73aaa20"
+            ],
+            [
+                "5906426428f6abc7"
+            ],
+            [
+                "13e90588a00eb537"
+            ]
+        ]
+    },
+    {
+        "id": "d3787f713f6931ec",
+        "type": "unit-converter",
+        "z": "0745adaa16aeeeb9",
+        "category": "temperature",
+        "inputUnit": "C",
+        "outputUnit": "F",
+        "inputField": "payload",
+        "outputField": "payload",
+        "inputFieldType": "msg",
+        "outputFieldType": "msg",
+        "roundOutputField": true,
+        "outputFieldDecimals": "1",
+        "name": "C to F",
+        "x": 564,
+        "y": 276,
+        "wires": [
+            [
+                "89f5bb04589df234"
+            ]
+        ]
+    },
+    {
+        "id": "b27df286bd164d3c",
+        "type": "unit-converter",
+        "z": "0745adaa16aeeeb9",
+        "category": "length",
+        "inputUnit": "mm",
+        "outputUnit": "in",
+        "inputField": "payload",
+        "outputField": "payload",
+        "inputFieldType": "msg",
+        "outputFieldType": "msg",
+        "roundOutputField": true,
+        "outputFieldDecimals": "1",
+        "name": "MM to IN",
+        "x": 570,
+        "y": 380,
+        "wires": [
+            [
+                "f526247b1b3cfbb1"
+            ]
+        ]
+    },
+    {
+        "id": "5906426428f6abc7",
+        "type": "unit-converter",
+        "z": "0745adaa16aeeeb9",
+        "category": "length",
+        "inputUnit": "km",
+        "outputUnit": "mi",
+        "inputField": "payload",
+        "outputField": "payload",
+        "inputFieldType": "msg",
+        "outputFieldType": "msg",
+        "roundOutputField": true,
+        "outputFieldDecimals": "1",
+        "name": "KM to MI",
+        "x": 570,
+        "y": 432,
+        "wires": [
+            [
+                "4859438ebd3e4b38"
+            ]
+        ]
+    },
+    {
+        "id": "9b73570f364220f4",
+        "type": "template",
+        "z": "0745adaa16aeeeb9",
+        "name": "tempest states",
+        "field": "topic",
+        "fieldType": "msg",
+        "format": "handlebars",
+        "syntax": "mustache",
+        "template": "tempest/{{{topic}}}/state",
+        "output": "str",
+        "x": 960,
+        "y": 340,
+        "wires": [
+            [
+                "053ce4555da085db"
+            ]
+        ]
+    },
+    {
+        "id": "d00f7d29a296345d",
+        "type": "mqtt out",
+        "z": "0745adaa16aeeeb9",
+        "name": "MQTT dynamic topic",
+        "topic": "",
+        "qos": "2",
+        "retain": "true",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "61a239ee501037a0",
+        "x": 1300,
+        "y": 500,
+        "wires": []
+    },
+    {
+        "id": "3927a6c89bd14aa7",
+        "type": "function",
+        "z": "0745adaa16aeeeb9",
+        "name": "ha discovery F*",
+        "func": "var topic = msg.topic;\nvar name = msg.name;\n\nmsg.topic = \"homeassistant/sensor/tempest/\"+topic+\"/config\";\n\nmsg.payload = \n {\n  \"name\":\"Tempest \"+name,\n  \"object_id\" : \"tempest_\"+topic,\n  \"state_topic\" : \"tempest/\"+topic+\"/state\",\n  \"state_class\" : \"measurement\",\n  \"unit_of_measurement\" : \"°F\",\n  \"icon\" : \"mdi:thermometer\"\n }\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 768,
+        "y": 588,
+        "wires": [
+            [
+                "80c6b4b39298aa41"
+            ]
+        ]
+    },
+    {
+        "id": "d0b4425842d224e9",
+        "type": "function",
+        "z": "0745adaa16aeeeb9",
+        "name": "ha discovery %",
+        "func": "var topic = msg.topic;\nvar name = msg.name;\n\nmsg.topic = \"homeassistant/sensor/tempest/\"+topic+\"/config\";\n\nmsg.payload = \n {\n  \"name\":\"Tempest \"+name,\n  \"object_id\" : \"tempest_\"+topic,\n  \"state_topic\" : \"tempest/\"+topic+\"/state\",\n  \"state_class\" : \"measurement\",\n  \"unit_of_measurement\" : \"%\",\n  \"icon\" : \"mdi:water-percent\"\n }\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 772,
+        "y": 640,
+        "wires": [
+            [
+                "6cb750c635fd06b3"
+            ]
+        ]
+    },
+    {
+        "id": "8d71b7e4808efd05",
+        "type": "function",
+        "z": "0745adaa16aeeeb9",
+        "name": "ha discovery MPH",
+        "func": "var topic = msg.topic;\nvar name = msg.name;\n\nmsg.topic = \"homeassistant/sensor/tempest/\"+topic+\"/config\";\n\nmsg.payload = \n {\n  \"name\":\"Tempest \"+name,\n  \"object_id\" : \"tempest_\"+topic,\n  \"state_topic\" : \"tempest/\"+topic+\"/state\",\n  \"state_class\" : \"measurement\",\n  \"unit_of_measurement\" : \"MPH\",\n  \"icon\" : \"mdi:weather-windy\"\n }\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 782,
+        "y": 692,
+        "wires": [
+            [
+                "d1d5eb8b872898f2"
+            ]
+        ]
+    },
+    {
+        "id": "dcbc2b628cf93b64",
+        "type": "function",
+        "z": "0745adaa16aeeeb9",
+        "name": "ha discovery MILES",
+        "func": "var topic = msg.topic;\nvar name = msg.name;\n\nmsg.topic = \"homeassistant/sensor/tempest/\"+topic+\"/config\";\n\nmsg.payload = \n {\n  \"name\":\"Tempest \"+name,\n  \"object_id\" : \"tempest_\"+topic,\n  \"state_topic\" : \"tempest/\"+topic+\"/state\",\n  \"state_class\" : \"measurement\",\n  \"unit_of_measurement\" : \"miles\",\n  \"icon\" : \"mdi:map-outline\"\n }\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 792,
+        "y": 744,
+        "wires": [
+            [
+                "7c86e5ee03c5d94e"
+            ]
+        ]
+    },
+    {
+        "id": "20fffef2fde4692a",
+        "type": "function",
+        "z": "0745adaa16aeeeb9",
+        "name": "ha discovery lightning",
+        "func": "var topic = msg.topic;\nvar name = msg.name;\n\nmsg.topic = \"homeassistant/sensor/tempest/\"+topic+\"/config\";\n\nmsg.payload = \n {\n  \"name\":\"Tempest \"+name,\n  \"object_id\" : \"tempest_\"+topic,\n  \"state_topic\" : \"tempest/\"+topic+\"/state\",\n  \"state_class\" : \"measurement\",\n  \"icon\" : \"mdi:weather-lightning\"\n }\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 792,
+        "y": 796,
+        "wires": [
+            [
+                "0d9e5ce0f3d9d9ec"
+            ]
+        ]
+    },
+    {
+        "id": "aedb3ec089c95a68",
+        "type": "function",
+        "z": "0745adaa16aeeeb9",
+        "name": "ha discovery INCHES",
+        "func": "var topic = msg.topic;\nvar name = msg.name;\n\nmsg.topic = \"homeassistant/sensor/tempest/\"+topic+\"/config\";\n\nmsg.payload = \n {\n  \"name\":\"Tempest \"+name,\n  \"object_id\" : \"tempest_\"+topic,\n  \"state_topic\" : \"tempest/\"+topic+\"/state\",\n  \"state_class\" : \"measurement\",\n  \"unit_of_measurement\" : \"inches\",\n  \"icon\" : \"mdi:ruler\"\n }\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 792,
+        "y": 848,
+        "wires": [
+            [
+                "56f5799e6ef2b131"
+            ]
+        ]
+    },
+    {
+        "id": "01a7f79ee744f6b7",
+        "type": "function",
+        "z": "0745adaa16aeeeb9",
+        "name": "ha discovery",
+        "func": "var topic = msg.topic;\nvar name = msg.name;\n\nmsg.topic = \"homeassistant/sensor/tempest/\"+topic+\"/config\";\n\nmsg.payload = \n {\n  \"name\":\"Tempest \"+name,\n  \"object_id\":\"tempest_\"+topic,\n  \"state_topic\": \"tempest/\"+topic+\"/state\",\n  \"state_class\":\"measurement\"\n }\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 762,
+        "y": 900,
+        "wires": [
+            [
+                "c0a0b5e65644e85d"
+            ]
+        ]
+    },
+    {
+        "id": "585a96af346ea48f",
+        "type": "switch",
+        "z": "0745adaa16aeeeb9",
+        "name": "",
+        "property": "topic",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "air_temperature",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "feels_like",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "heat_index",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "wind_chill",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "dew_point",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "wet_bulb_temperature",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "wet_bulb_globe_temperature",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "delta_t",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "relative_humidity",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "wind_avg",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "wind_gust",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "wind_lull",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "lightning_strike_last_distance",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "lightning_strike_count",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "lightning_strike_count_last_1hr",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "lightning_strike_count_last_3hr",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "precip",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "precip_accum_last_1hr",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "precip_accum_local_day",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "precip_accum_local_day_final",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "precip_accum_local_yesterday",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "precip_accum_local_yesterday_final",
+                "vt": "str"
+            },
+            {
+                "t": "else"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 23,
+        "x": 482,
+        "y": 744,
+        "wires": [
+            [
+                "83ddf018ecb2dd2d"
+            ],
+            [
+                "83ddf018ecb2dd2d"
+            ],
+            [
+                "83ddf018ecb2dd2d"
+            ],
+            [
+                "83ddf018ecb2dd2d"
+            ],
+            [
+                "83ddf018ecb2dd2d"
+            ],
+            [
+                "83ddf018ecb2dd2d"
+            ],
+            [
+                "83ddf018ecb2dd2d"
+            ],
+            [
+                "83ddf018ecb2dd2d"
+            ],
+            [
+                "d0b4425842d224e9"
+            ],
+            [
+                "a9170bfb497fadbc"
+            ],
+            [
+                "a9170bfb497fadbc"
+            ],
+            [
+                "a9170bfb497fadbc"
+            ],
+            [
+                "dcbc2b628cf93b64"
+            ],
+            [
+                "9f4e6c222ae26686"
+            ],
+            [
+                "9f4e6c222ae26686"
+            ],
+            [
+                "9f4e6c222ae26686"
+            ],
+            [
+                "c4514ded5148afac"
+            ],
+            [
+                "c4514ded5148afac"
+            ],
+            [
+                "c4514ded5148afac"
+            ],
+            [
+                "c4514ded5148afac"
+            ],
+            [
+                "c4514ded5148afac"
+            ],
+            [
+                "c4514ded5148afac"
+            ],
+            [
+                "01a7f79ee744f6b7"
+            ]
+        ]
+    },
+    {
+        "id": "22394e3a781df40e",
+        "type": "string",
+        "z": "0745adaa16aeeeb9",
+        "name": "",
+        "methods": [
+            {
+                "name": "humanize",
+                "params": []
+            },
+            {
+                "name": "titleCase",
+                "params": []
+            }
+        ],
+        "prop": "topic",
+        "propout": "name",
+        "object": "msg",
+        "objectout": "msg",
+        "x": 330,
+        "y": 744,
+        "wires": [
+            [
+                "585a96af346ea48f"
+            ]
+        ]
+    },
+    {
+        "id": "049f764f6dd79417",
+        "type": "pushover-keys",
+        "name": "WX"
+    },
+    {
+        "id": "61a239ee501037a0",
+        "type": "mqtt-broker",
+        "name": "MQTT",
+        "broker": "10.2.50.3",
+        "port": "1883",
+        "clientid": "",
+        "autoConnect": true,
+        "usetls": false,
+        "protocolVersion": "4",
+        "keepalive": "60",
+        "cleansession": true,
+        "birthTopic": "",
+        "birthQos": "0",
+        "birthPayload": "",
+        "birthMsg": {},
+        "closeTopic": "",
+        "closeQos": "0",
+        "closePayload": "",
+        "closeMsg": {},
+        "willTopic": "",
+        "willQos": "0",
+        "willPayload": "",
+        "willMsg": {},
+        "userProps": "",
+        "sessionExpiry": ""
+    }
+]
